@@ -1,5 +1,5 @@
 ##Navigation
-- [[Home|Home]]
+- [[Home|Home.md]]
   - [FAQ](Home/FAQ.md)
   - [Bugs and Contributing](Home/CONTRIBUTING.md)
 - [Themes](THEMES.md)
