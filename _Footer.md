@@ -1,1 +1,1 @@
-##### GridLauncher Wiki.
+##### (probably) The official GridLauncher Wiki.
