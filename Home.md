@@ -1,6 +1,6 @@
 # Welcome to the 3DS-Homebrew-Menu wiki!
 
-<div style="text-align:center"><img src ="images/mashers.png" /></div>
+![The most amazing launcher of all time!](images/mashers.png)
 
 This is the (un)official Wiki for the popular Homebrew: Gridlauncher!
 
