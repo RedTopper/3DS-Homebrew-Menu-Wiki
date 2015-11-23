@@ -2,6 +2,7 @@
 - [Home](Home)
   - [FAQ](Home-FAQ)
   - [Bugs and Contributing](Home-Contributing)
+  - [Credits](Home-Credits)
 - [Themes](Themes)
   - [Wallpapers](Themes-Wallpapers)
   - [Buttons and Icons](Themes-Icons)
