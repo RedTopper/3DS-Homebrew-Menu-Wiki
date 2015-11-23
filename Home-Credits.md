@@ -1,4 +1,4 @@
-#Credits
+#Home -> Credits
 - @mashers: Lead developer of Gridlauncher
 - @ihaveamac: Developer of mglupdater, the tool used to update GridLauncer
 - smea: For the original Homebrew Launcher code and ninjahax

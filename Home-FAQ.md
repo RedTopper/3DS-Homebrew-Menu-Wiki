@@ -1,4 +1,4 @@
-#FAQ
+#Home -> FAQ
 
 #### How do I make a theme?
 

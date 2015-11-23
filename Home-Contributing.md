@@ -1,3 +1,4 @@
+#Home -> Contributing
 When logging issues, please do not just post the issue you are having. I.e. please do not post "the launcher is crashing." It is impossible to diagnose and fix bugs with such limited information. To investigate reported issues, I need ALL of the following information:
 
 * 3DS version (New/Old, XL/normal)
