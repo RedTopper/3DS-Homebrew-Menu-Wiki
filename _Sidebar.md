@@ -1,4 +1,5 @@
 ##Navigation
 - [Home](Home)
 - [Themes](Themes)
-  - [Wallpapers](Themes-Wallpapers)
+  - [Wallpapers](Wallpapers)
+  - [Icons](Icons)
