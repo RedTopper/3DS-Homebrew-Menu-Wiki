@@ -9,5 +9,6 @@
   - [Corner Buttons](Themes-Corners)
   - [Banners](Themes-Banners)
   - [Sounds and BGM](Themes-Sounds)
+  - [Banners](Banners)
   - [SMDH files](Themes-SMDH)
   - [Colours](Themes-Colours)
