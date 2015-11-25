@@ -11,6 +11,7 @@ buttonbottomright.png|36x36|The background image for the bottom right corner ico
 
 ##Corner button files: selected state
 (whether selected using d-pad or touch screen)
+
 Filename|Size|Description
 --------|----|-----------
 buttontopleftselected.png|36x36|The background image for the top left corner icon in the selected state
