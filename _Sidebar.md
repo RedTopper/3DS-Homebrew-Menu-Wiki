@@ -1,6 +1,7 @@
 ##Navigation
 - [Home](Home)
 - [Themes](Themes)
+  - [Creating themes](Creating themes)
   - [Wallpapers and splash screens](Wallpapers and splash screens)
   - [Icons](Icons)
   - [Icon backgrounds](Icon backgrounds)
