@@ -1,4 +1,4 @@
-#Wallpapers
+#Wallpapers and splash screens
 Wallpaper files must all be PNG format and should be placed within the theme directory. They can contain transparency but this is not recommended. Splash screens, if present, are shown while the launcher is loading. Wallpapers are shown at various points while the launcher is running.
 
 ##Wallpaper files: top screen
