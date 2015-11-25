@@ -18,3 +18,12 @@ buttontopleftselected.png|36x36|The background image for the top left corner ico
 buttontoprightselected.png|36x36|The background image for the top right corner icon in the selected state
 buttonbottomleftselected.png|36x36|The background image for the bottom left corner icon in the selected state
 buttonbottomrightselected.png|36x36|The background image for the bottom right corner icon in the selected state
+
+##Corner button files: symbols
+Filename|Size|Description
+--------|----|-----------
+backicon.png|36x36|The image shown on the top left button to go back a page
+foldersicon.png|36x36|The image shown on the bottom right icon to open the folders menu
+helpicon.png|36x36|The image shown on the top right icon to show the help page
+homeicon.png|36x36|The image shown on the bottom right icon to open the title list
+settingsicon.png|36x36|The image shown on the top left icon to open the settings
