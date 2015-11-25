@@ -2,7 +2,7 @@
 
 #### How do I make a theme?
 
-Check [BROKEN TAB LINK] located in this wiki. It has EVERYTHING you would ever want to know about themes. If you are simply looking for other users themes, https://gbatemp.net/threads/mashers-homebrew-launcher-mod-custom-themes-thread.399333/ is a great place to start!
+See [this page](wiki/Themes) located in this wiki. It has EVERYTHING you would ever want to know about themes. If you are simply looking for other users themes, https://gbatemp.net/threads/mashers-homebrew-launcher-mod-custom-themes-thread.399333/ is a great place to start!
 
 #### Where are my themes located?
 - sdmc:/gridlauncher/themes/Default <- Default theme folder.

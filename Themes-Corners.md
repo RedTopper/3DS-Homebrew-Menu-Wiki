@@ -1,4 +1,4 @@
-#Corner buttons
+#Themes -> Corner Buttons
 The buttons in the corners of the bottom screen can be fully customised. The image files must all be PNG format and should be placed within the theme directory. They can contain transparency, and this is recommended for the best visual effect (such as rounded corners).
 
 ##Corner button files: unselected state

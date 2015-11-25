@@ -1,4 +1,4 @@
-#Icon backgrounds
+#Themes -> Icon Backgrounds
 The backgrounds for grid icons can be customised. This includes the icon for the cart launcher. Icon background files must all be PNG format and should be placed within the theme directory. They can contain transparency, and this is recommended for the best visual effect (such as rounded corners).
 
 ##Icon background files
