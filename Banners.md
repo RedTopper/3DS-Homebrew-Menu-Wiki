@@ -13,4 +13,4 @@ The presence of the suffix '-fullscreen.png' indicates that the banner will prev
 
 Filenames|Location|Description
 --------|--------|-----------
-&ltappname&gt-banner.png<br>&ltappname&gt-banner-fullscreen.png|The folder containing a 3DS homebrew app. &ltappname&gt must be identical to the part of the 3dsx filename before the extension.|Banners for 3DS homebrew apps.
+<appname>-banner.png<br>&ltappname&gt-banner-fullscreen.png|The folder containing a 3DS homebrew app. &ltappname&gt must be identical to the part of the 3dsx filename before the extension.|Banners for 3DS homebrew apps.
