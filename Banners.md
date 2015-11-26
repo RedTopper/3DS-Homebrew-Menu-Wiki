@@ -13,4 +13,8 @@ The presence of the suffix '-fullscreen.png' indicates that the banner will prev
 
 Filenames|Location|Description
 --------|--------|-----------
-\<appname\>-banner.png<br>&ltappname&gt-banner-fullscreen.png|The folder containing a 3DS homebrew app. &ltappname&gt must be identical to the part of the 3dsx filename before the extension.|Banners for 3DS homebrew apps.
+\<appname\>-banner.png<br>\<appname\>-banner-fullscreen.png|The folder containing a 3DS homebrew app. \<appname\> must be identical to the part of the 3dsx filename before the extension.|Banners for 3DS homebrew apps.
+\<shortcutname\>-banner.png<br>\<shortcutname\>-banner-fullscreen.png|The folder containing an XML shortcut. \<shortcutname\> must be identical to the part of the shortcut XML file filename before the extension.|Banners for XML shortcuts.
+\<titleid\>-banner.png<br>\<titleid\>-banner-fullscreen.png|/gridlauncher/titlebanners/. \<titleid\> must be identical to the part of the title ID of the title. You can obtain the title ID by highlighting the title in the grid and pressing SELECT.|Banners for titles installed on the 3DS and game carts.
+folder-banner.png<br>folder-banner-fullscreen.png|/gridlauncher/folders/\<myfolder\>/, where \<myfolder\> is the folder for which you want to add the banner|Banners for Gridlauncher folders.
+theme-banner.png<br>theme-banner-fullscreen.png|/gridlauncher/themes/\<mytheme\>/, where \<mytheme\> is the folder for the theme for which you want to add the banner|Banners for Gridlauncher themes.
