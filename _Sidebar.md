@@ -7,7 +7,7 @@
   - [Wallpapers and Splash Screens](Themes-Wallpapers)
   - [Icon Backgrounds](Themes-Icon-Backgrounds)
   - [Corner Buttons](Themes-Corners)
-  - [Banners](Themes-Banners)
   - [Sounds and BGM](Themes-Sounds)
   - [SMDH files](Themes-SMDH)
   - [Colours](Themes-Colours)
+- [Banners](Banners)
