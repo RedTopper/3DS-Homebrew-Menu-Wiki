@@ -1,6 +1,6 @@
 #Grid options
 
-![Gid options icon](gridoptionsicon.png)<br>
+![Grid options icon](gridoptionsicon.png)<br>
 
 This submenu allows you to configure a range of options relating to icon grids within the launcher.
 

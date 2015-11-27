@@ -1,6 +1,6 @@
 #Background title loading
 
-![Gid options icon](backgroundtitleloadingicon.png)<br>
+![Background title loading icon](backgroundtitleloadingicon.png)<br>
 
 If enabled, the title menu will be populated in a background thread. This means the icons will appear in real-time, allowing you to open and close the menu and select titles before the loading process has been completed.
 
