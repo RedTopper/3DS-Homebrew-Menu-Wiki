@@ -11,7 +11,7 @@
   - [Title filtering](Configuration-TitleFiltering)
   - [HANS title booting](Configuration-HANSTitleBooting)
   - [Other options](Configuration-Other)
-  - [SMDH icon files](SMDH)
+  - [SMDH icon files](Configuration-SMDH)
 - [Updating the launcher](Updating)
   - [Changelog](Updating-Changelog)
 - [Themes](Themes)
