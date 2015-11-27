@@ -1,6 +1,6 @@
 #HANS Title Booting
 
-![HANS title booting icon](hanstitlebooticon.png)<br>
+![HANS title booting icon](wiki/images/hanstitlebooticon.png)<br>
 
 If this setting is enabled, Gridlauncher will use HANS to boot any title selected, including the cart. This setting does not apply to homebrew apps (which will not boot using HANS) or HANS shortcuts (which always boot using HANS).
 

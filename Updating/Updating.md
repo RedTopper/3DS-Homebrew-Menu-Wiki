@@ -3,7 +3,7 @@ Gridlauncher is in pretty much constant development, and so there are frequent u
 1. Open Gridlauncher settings (the top left icon on the main grid)
 2. Open the Software Update option, which is the following icon:
 
-![Settings icon](settingsicon.png)<br>
+![Settings icon](images/settingsicon.png)<br>
 
 The launcher will then check which version is the latest in this Github repository, and offer to download and install the update for you.
 
