@@ -1,4 +1,4 @@
-#Grid options
+#Configuration -> Grid options
 
 ![Grid options icon](images/gridoptionsicon.png)<br>
 

@@ -1,4 +1,4 @@
-#HANS Title Booting
+#Configuration -> HANS Title Booting
 
 ![HANS title booting icon](wiki/images/hanstitlebooticon.png)<br>
 

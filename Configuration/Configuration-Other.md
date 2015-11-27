@@ -1,4 +1,4 @@
-#Other options
+#Configuration -> Other options
 
 Icon|Description
 ----|-----------

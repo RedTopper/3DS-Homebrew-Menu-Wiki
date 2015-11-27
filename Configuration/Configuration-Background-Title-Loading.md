@@ -1,4 +1,4 @@
-#Background title loading
+#Configuration -> Background title loading
 
 ![Background title loading icon](images/backgroundtitleloadingicon.png)<br>
 

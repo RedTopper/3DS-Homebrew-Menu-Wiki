@@ -1,4 +1,4 @@
-#Title filtering
+#Configuration -> Title filtering
 
 ![Title filtering icon](images/titlefiltericon.png)<br>
 
