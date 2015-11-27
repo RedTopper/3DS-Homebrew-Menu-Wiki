@@ -1,3 +1,11 @@
+## Beta 128
+* Includes updater 2.1, which adds the following:
+ * Lots of code cleanup
+ * Error handling
+ * Automatic creation of /gridlauncher/updater.cfg with a setting to skip info and automatically exit if the latest and installed version numbers do not match. (There's currently no way to enable this in the program)
+ * Several UI improvements
+* Displays the info and non-grid wallpapers on title error pages
+
 ## Beta 127
 * Adds banners for themes. Same image format as the other banner images. Place them in the theme folder and call the file theme-banner.png or theme-banner-fullscreen.png
 
