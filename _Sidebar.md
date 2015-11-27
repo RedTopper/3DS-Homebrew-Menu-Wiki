@@ -13,6 +13,7 @@
   - [Other options](Configuration-Other)
 - [Updating the launcher](Updating)
 - [Themes](Themes)
+  - [Water](Themes-Water)
   - [Wallpapers and Splash Screens](Themes-Wallpapers)
   - [Icon Backgrounds](Themes-Icon-Backgrounds)
   - [Corner Buttons](Themes-Corners)
