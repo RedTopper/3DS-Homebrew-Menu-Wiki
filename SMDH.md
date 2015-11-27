@@ -1,4 +1,4 @@
-#Themes -> SMDH Files
+#SMDH Files
 Gridlauncher folders and themes all support the use of smdh icon files. Icons must be 48x48 pixels in size. The following web site will allow you to convert images to smdh icon files and add text description:
 
 http://usuaris.tinet.cat/mark/smdh_creator/
