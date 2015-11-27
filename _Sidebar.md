@@ -14,6 +14,7 @@
 - [Updating the launcher](Updating)
 - [Themes](Themes)
   - [Water](Themes-Water)
+  - [Colours](Themes-Colours)
   - [Wallpapers and Splash Screens](Themes-Wallpapers)
   - [Icon Backgrounds](Themes-Icon-Backgrounds)
   - [Corner Buttons](Themes-Corners)
