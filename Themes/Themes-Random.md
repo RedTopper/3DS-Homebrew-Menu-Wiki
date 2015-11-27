@@ -1,6 +1,6 @@
 #Random themes
 
-![Random themes icon](randomthemeicon.png)<br>
+![Random themes icon](images/randomthemeicon.png)<br>
 
 This option can be found in two places.
 

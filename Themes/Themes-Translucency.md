@@ -1,6 +1,6 @@
 #Translucency options
 
-![Translucency icon](translucencyicon.png)<br>
+![Translucency icon](images/translucencyicon.png)<br>
 
 Various elements of the Gridlauncher interface can be drawn with adjustable translucency to improve the visual effect.
 

@@ -20,11 +20,11 @@ folder-banner.png<br>folder-banner-fullscreen.png|/gridlauncher/folders/\<myfold
 theme-banner.png<br>theme-banner-fullscreen.png|/gridlauncher/themes/\<mytheme\>/, where \<mytheme\> is the folder for the theme for which you want to add the banner|Banners for Gridlauncher themes.
 
 ##Examples
-![A cart without a banner](bannernone.png)<br>
+![A cart without a banner](images/bannernone.png)<br>
 A cart without a banner
 
-![A cart with a full screen banner](bannerfull.png)<br>
+![A cart with a full screen banner](images/bannerfull.png)<br>
 A cart with a full screen banner
 
-![A HANS shortcut with a small banner](bannersmall.png)<br>
+![A HANS shortcut with a small banner](images/bannersmall.png)<br>
 A HANS shortcut with a small banner
