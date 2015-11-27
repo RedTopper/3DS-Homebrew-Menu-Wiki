@@ -5,6 +5,7 @@
   - [Credits](Home-Credits)
 - [Installation](Installation)
 - [Configuration](Configuration)
+  - [Folders](Configuration-Folders)
   - [Region free launcher](Configuration-Region-Free-Launcher)
   - [Grid options](Configuration-Grid-Options)
   - [Background title loading](Configuration-Background-Title-Loading)
