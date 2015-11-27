@@ -26,4 +26,4 @@ You will have to ask it here then. We won't bite (unless it has been asked many 
 
 #### People ask (insert question here) all the time! How can I add it here? and There is a seplling error, can you fix it?
 
-Fork this repository here (https://github.com/RedInquisitive/3DS-Homebrew-Menu-Wiki) and add your question or fix. Then, create a pull request. If @mashers likes it, he will put it here as well.
+Fork [this repository here](https://github.com/RedInquisitive/3DS-Homebrew-Menu-Wiki) and add your question or fix. Then, create a pull request. If @mashers likes it, he will put it here as well.
