@@ -18,3 +18,8 @@ Filenames|Location|Description
 \<titleid\>-banner.png<br>\<titleid\>-banner-fullscreen.png|/gridlauncher/titlebanners/. \<titleid\> must be identical to the part of the title ID of the title. You can obtain the title ID by highlighting the title in the grid and pressing SELECT.|Banners for titles installed on the 3DS and game carts.
 folder-banner.png<br>folder-banner-fullscreen.png|/gridlauncher/folders/\<myfolder\>/, where \<myfolder\> is the folder for which you want to add the banner|Banners for Gridlauncher folders.
 theme-banner.png<br>theme-banner-fullscreen.png|/gridlauncher/themes/\<mytheme\>/, where \<mytheme\> is the folder for the theme for which you want to add the banner|Banners for Gridlauncher themes.
+
+##Examples
+![A cart without a banner](wiki/bannernone.png)
+![A cart without a full screen banner](wiki/bannerfull.png)
+![A cart without a small banner](wiki/bannersmall.png)
