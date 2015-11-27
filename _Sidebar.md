@@ -4,6 +4,7 @@
   - [Bugs and Contributing](Home-Contributing)
   - [Credits](Home-Credits)
 - [Installation](Installation)
+- [Updating the launcher](Updating)
 - [Themes](Themes)
   - [Wallpapers and Splash Screens](Themes-Wallpapers)
   - [Icon Backgrounds](Themes-Icon-Backgrounds)
