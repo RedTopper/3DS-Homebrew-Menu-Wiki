@@ -15,6 +15,7 @@
 - [Themes](Themes)
   - [Water](Themes-Water)
   - [Colours](Themes-Colours)
+  - [Translucency](Themes-Translucency)
   - [Panels](Themes-Panels)
   - [Wallpapers and Splash Screens](Themes-Wallpapers)
   - [Icon Backgrounds](Themes-Icon-Backgrounds)
