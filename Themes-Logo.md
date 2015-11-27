@@ -1,4 +1,4 @@
-#Panel options
+#Logo options
 
 ![Logo icon](logoicon.png)<br>
 
