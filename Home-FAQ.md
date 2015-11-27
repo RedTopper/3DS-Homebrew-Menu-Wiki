@@ -10,7 +10,7 @@ See [this page](Themes) located in this wiki. It has EVERYTHING you would ever w
 
 #### Why won't the online updater show up in my launcher? What folder should I place the updater?
 
-Download launcher.zip from the repository root and extract it to your SD card's root. Then, run the updater. It should fix the updater not appearing AND give you the most current version. The updater should be placed at /gridlauncher/update.
+Download [launcher.zip](https://github.com/mashers/3ds_hb_menu/raw/master/launcher.zip) from the repository root and extract it to your SD card's root. Then, run the updater. It should fix the updater not appearing AND give you the most current version. The updater should be placed at /gridlauncher/update.
 
 #### Why do themes not shuffle on wake?
 
@@ -26,4 +26,4 @@ You will have to ask it here then. We won't bite (unless it has been asked many 
 
 #### People ask (insert question here) all the time! How can I add it here? and There is a seplling error, can you fix it?
 
-Fork this repository here (https://github.com/RedInquisitive/3DS-Homebrew-Menu-Wiki) and add your question or fix. Then, create a pull request. If @mashers likes it, he will put it here as well.
+Fork [this repository here](https://github.com/RedInquisitive/3DS-Homebrew-Menu-Wiki) and add your question or fix. Then, create a pull request. If @mashers likes it, he will put it here as well.
