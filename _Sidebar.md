@@ -15,6 +15,7 @@
 - [Themes](Themes)
   - [Water](Themes-Water)
   - [Colours](Themes-Colours)
+  - [Panels](Themes-Panels)
   - [Wallpapers and Splash Screens](Themes-Wallpapers)
   - [Icon Backgrounds](Themes-Icon-Backgrounds)
   - [Corner Buttons](Themes-Corners)
