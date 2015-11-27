@@ -1,5 +1,5 @@
 #Updating the launcher
-Gridlauncher is in pretty much constant development, and so there are frequent updates. To make it easier for users to keep up to date with the latest version, @ihaveamac created a built-in updater. You can access this as follows:
+Gridlauncher is in pretty much constant development, and so there are frequent updates. To make it easier for users to keep up to date with the latest version, @ihaveamac has created an updater which is included with the Gridlauncher download. You can access this as follows:
 1. Open Gridlauncher settings (the top left icon on the main grid)
 2. Open the Software Update option, which is the following icon:
 
