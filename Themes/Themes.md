@@ -10,5 +10,3 @@ Gridlauncher supports a wide range of theming options:
 * Custom Colour Schemes
 
 Please select a theme option in the sidebar to see more information about how to configure these elements of the launcher.
-
-Themes also support the use of [SMDH icon files](Configuration-SMDH) and [banners](Banners).
