@@ -1,5 +1,5 @@
 ## Beta 129
-Added support for grid icon overlay images in themes. Please see the Icon Overlays page in the Wiki for details.
+* Added support for grid icon overlay images in themes. Please see the Icon Overlays page in the Wiki for details.
 
 ## Beta 128
 * Includes updater 2.1, which adds the following:
