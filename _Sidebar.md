@@ -14,7 +14,7 @@
   - [Other options](Configuration-Other)
   - [SMDH icon files](Configuration-SMDH)
 - [Updating the launcher](Updating)
-  - [Changelog](Updating-Changelog)
+  - [Changelog](Updating-Changelog-Beta)
 - [Themes](Themes)
   - [Water](Themes-Water)
   - [Colours](Themes-Colours)
