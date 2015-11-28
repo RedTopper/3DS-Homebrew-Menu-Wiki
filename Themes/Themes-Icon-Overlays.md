@@ -5,6 +5,6 @@ Grid icons can be customised with overlay images. This includes the icon for the
 Filename|Size|Description
 --------|----|-----------
 appoverlay.png|64x64|The overlay image for all icons in all grids in the unselected state
-appoverlayselectged.png|64x64|The overlay image for all icons in all grids in the selected state (whether touch-highlighted or d-pad navigated)
+appoverlayselected.png|64x64|The overlay image for all icons in all grids in the selected state (whether touch-highlighted or d-pad navigated)
 cartoverlay.png|64x64| The overlay image for the game cart icon in all grids in the unselected state
 cartoverlayselected.png|64x64|The overlay image for the game cart icon in all grids in the selected state (whether touch-highlighted or d-pad navigated)
