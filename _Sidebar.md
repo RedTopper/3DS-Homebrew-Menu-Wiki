@@ -24,6 +24,7 @@
   - [Random themes](Themes-Random)
   - [Wallpapers and Splash Screens](Themes-Wallpapers)
   - [Icon Backgrounds](Themes-Icon-Backgrounds)
+  - [Icon Overlays](Themes-Icon-Overlays)
   - [Corner Buttons](Themes-Corners)
   - [Sounds and BGM](Themes-Sounds)
 - [Banners](Banners)
