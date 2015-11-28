@@ -25,7 +25,7 @@
 ## Beta 122
 * Cart banners now show on the main grid and update when carts are changed.
 
-## Betas 120/121
+## Beta 120/121
 * Addresses a bug retrieving the title ID from carts when they are inserted.
 
 ## Beta 119
@@ -107,7 +107,7 @@
 ## Beta 105
 * HANS title booting
 
-## Betas 102-104
+## Beta 102-104
 * Test builds to try to fix the audio issues when returning from an XML title.
 
 ## Beta 101
@@ -160,7 +160,7 @@ Merges fixes by @RedHat:
 * Background music and splash screen support c/o @RedHat
 * Proper migration to ctrulib great-refactor branch
 
-## Betas 81-83
+## Beta 81-83
 * Various broken commits. Move along...
 
 ## Beta 80
