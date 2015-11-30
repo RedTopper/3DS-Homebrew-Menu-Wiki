@@ -1,3 +1,6 @@
+## Beta 130
+Displays the info and non-grid wallpapers on netloader error pages
+
 ## Beta 129
 Added support for grid icon overlay images in themes. Please see the Icon Overlays page in the Wiki for details.
 
