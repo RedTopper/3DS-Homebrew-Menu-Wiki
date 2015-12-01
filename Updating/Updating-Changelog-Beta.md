@@ -1,5 +1,11 @@
+<!--
+
+for consistency's sake, you should put changelogs in bullet points, even if it's a single line.
+also make sure you do "git pull" before editing!
+
+-->
 ## Beta 130
-Displays the info and non-grid wallpapers on netloader error pages
+* Displays the info and non-grid wallpapers on netloader error pages
 
 ## Beta 129
 * Added support for grid icon overlay images in themes. Please see the Icon Overlays page in the Wiki for details.
