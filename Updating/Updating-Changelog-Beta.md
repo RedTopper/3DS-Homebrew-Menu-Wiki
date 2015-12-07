@@ -569,3 +569,9 @@ Bugfixes to background title loading:
 
 ## Beta 3
 * The bug with touch controls not working after the first page is fixed.
+
+## Beta 2
+* Unknown
+
+## Beta 1
+* First release
