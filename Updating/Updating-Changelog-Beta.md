@@ -39,7 +39,10 @@
 ## Beta 122
 * Cart banners now show on the main grid and update when carts are changed.
 
-## Betas 120/121
+## Beta 120
+* Addresses a bug retrieving the title ID from carts when they are inserted.
+
+## Beta 120
 * Addresses a bug retrieving the title ID from carts when they are inserted.
 
 ## Beta 119
@@ -121,8 +124,14 @@
 ## Beta 105
 * HANS title booting
 
-## Betas 102/103/104
-* Test builds to try to fix the audio issues when returning from an XML title.
+## Beta 104
+* Test build to try to fix the audio issues when returning from an XML title.
+
+## Beta 103
+* Test build to try to fix the audio issues when returning from an XML title.
+
+## Beta 102
+* Test build to try to fix the audio issues when returning from an XML title.
 
 ## Beta 101
 * Prevent launching the cart from empty folders
@@ -130,8 +139,23 @@
 * Reboot menu now shows the info and non-grid wallpapers (if available)
 * Fixed corner button A selection
 
-## Beta 95/96/97/98/99/100
-* Testing releases
+## Beta 100
+* Testing release
+
+## Beta 99
+* Testing release
+
+## Beta 98
+* Testing release
+
+## Beta 97
+* Testing release
+
+## Beta 96
+* Testing release
+
+## Beta 95
+* Testing release
 
 ## Beta 94
 Merges changes by @RedHat:
@@ -144,7 +168,14 @@ Merges changes by @RedHat:
 * Support for boot sounds. Format the same as BGM.bin, call it bootsound.bin, and place it in the theme folder. The boot sounds for the currently selected theme will be played on boot.
 * Removes a lot more unneeded stuff from tinyxml to make space for new features
 
-## Beta 91/92
+## Beta 92
+Merges fixes by @RedHat:
+* Changed Left/Right audio effect
+* Removed audio pop
+* Fixed audio load bug
+* Includes fixed updater lua script
+
+## Beta 91
 Merges fixes by @RedHat:
 * Changed Left/Right audio effect
 * Removed audio pop
