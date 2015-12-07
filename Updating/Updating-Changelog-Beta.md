@@ -121,7 +121,7 @@
 ## Beta 105
 * HANS title booting
 
-## Betas 102-104
+## Betas 102/103/104
 * Test builds to try to fix the audio issues when returning from an XML title.
 
 ## Beta 101
@@ -130,7 +130,7 @@
 * Reboot menu now shows the info and non-grid wallpapers (if available)
 * Fixed corner button A selection
 
-## Beta 95-100
+## Beta 95/96/97/98/99/100
 * Testing releases
 
 ## Beta 94
@@ -174,7 +174,7 @@ Merges fixes by @RedHat:
 * Background music and splash screen support c/o @RedHat
 * Proper migration to ctrulib great-refactor branch
 
-## Betas 81-83
+## Betas 81/82/83
 * Various broken commits. Move along...
 
 ## Beta 80
