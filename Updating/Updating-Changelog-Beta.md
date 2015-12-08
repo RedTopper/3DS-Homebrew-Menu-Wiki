@@ -6,6 +6,9 @@
 - also make sure you do "git pull" before editing!
 - 
 -->
+## Beta 131
+* Includes updater 2.2
+
 ## Beta 130
 * Displays the info and non-grid wallpapers on netloader error pages
 
