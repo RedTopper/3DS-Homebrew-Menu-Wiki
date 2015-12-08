@@ -195,6 +195,12 @@ Merges fixes by @RedHat:
 ## Beta 87
 * This update adds move and select sound effect support. Place the files movesound.bin and selectsound.bin in your theme folder. The files need to be in the same format as BGM.bin. Your themes will then play the sounds when moving around the grid and selecting apps.
 
+## Beta 86
+* Fixed help menu crash
+* Fixed software update author name
+* Current folder will now be selected in the folders grid
+* Moved random theme on wake option to theme settings
+
 ## Beta 85
 * Fixed help menu crash
 * Fixed software update author name
@@ -205,7 +211,13 @@ Merges fixes by @RedHat:
 * Background music and splash screen support c/o @RedHat
 * Proper migration to ctrulib great-refactor branch
 
-## Betas 81/82/83
+## Beta 83
+* Various broken commits. Move along...
+
+## Beta 82
+* Various broken commits. Move along...
+
+## Beta 81
 * Various broken commits. Move along...
 
 ## Beta 80
