@@ -368,7 +368,7 @@ Bugfixes to background title loading:
 
 ## Beta 44
 * Folders and themes now draw in grids instead of the ugly button lists. They will show default icons with the first letter of the folder/theme on top, or if folder.smdh or theme.smdh is placed inside the folder/theme directory then the image inside this smdh will be used as the icon for the grid. This change also removes the 8 folder/theme limit, as the folder/theme grids inherit the paging ability of the other grids so can show as many themes/folders as are on the device.
-* In addition, the “Reboot” icon now changes its text to “Rebooting…” when it has been activated so the user will know the device is in the process of rebooting.
+* In addition, the "Reboot" icon now changes its text to "Rebooting..." when it has been activated so the user will know the device is in the process of rebooting.
 * Finally, I have created a spinning progress wheel. This isn’t used anywhere yet but is included in this commit.
 
 ## Beta 43
@@ -440,7 +440,7 @@ Bugfixes to background title loading:
 ## Beta 32
 * Added support for wallpaper PNG files with a transparency channel. The background colour will show through any transparent areas.
 * Fixed the bug which left a gap in the app backgrounds if the region free launcher was disabled
-* Added an option to hide the “homebrew launcher” logo
+* Added an option to hide the "homebrew launcher" logo
 * Separate title text colour now configurable in the theme settings. This allows you to change the colour of the app name title text on the top screen so it no longer has to match the colour of the top bar
 * Icons for the new options in settings
 
