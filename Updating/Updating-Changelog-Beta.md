@@ -118,11 +118,9 @@
 ## Beta 106
 * Fixed long theme titles overlapping theme author text
 
-## Beta 105-a
-* Updated HANS version in the archive to the latest version
-
 ## Beta 105
 * HANS title booting
+* 105-a: Updated HANS version in the archive to the latest version
 
 ## Beta 104
 * Test build to try to fix the audio issues when returning from an XML title.
