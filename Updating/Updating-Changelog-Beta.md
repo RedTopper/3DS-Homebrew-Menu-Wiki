@@ -39,7 +39,7 @@
 ## Beta 122
 * Cart banners now show on the main grid and update when carts are changed.
 
-## Beta 120
+## Beta 121
 * Addresses a bug retrieving the title ID from carts when they are inserted.
 
 ## Beta 120
