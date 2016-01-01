@@ -6,6 +6,9 @@
 - also make sure you do "git pull" before editing!
 - 
 -->
+## Beta 133
+* App banners now display on top of water
+
 ## Beta 132
 * Updated integrated version of HANS to latest version
 * Fullscreen app banners can now be less than 400x222 pixels in size, and will be centralised on the screen
