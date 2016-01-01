@@ -6,6 +6,12 @@
 - also make sure you do "git pull" before editing!
 - 
 -->
+## Beta 132
+* Updated integrated version of HANS to latest version
+* Fullscreen app banners can now be less than 400x222 pixels in size, and will be centralised on the screen
+* Fixed disappearing cursor when pressing right if only one corner button is present
+* Fixed disappearing icon selector in title menu if no cart is inserted
+
 ## Beta 131
 * Includes updater 2.2
 
