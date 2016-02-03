@@ -6,6 +6,9 @@
 - also make sure you do "git pull" before editing!
 - 
 -->
+## Beta 134
+* wallpapertopinfo.png is now displayed if a full screen banner is currently showing
+
 ## Beta 133
 * App banners now display on top of water
 
