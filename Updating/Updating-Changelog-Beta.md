@@ -6,6 +6,9 @@
 - also make sure you do "git pull" before editing!
 - 
 -->
+## Beta 135
+* Support for exit to system home menu if using *hax 2.6
+
 ## Beta 134
 * wallpapertopinfo.png is now displayed if a full screen banner is currently showing
 
